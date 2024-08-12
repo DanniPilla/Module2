@@ -1,37 +1,39 @@
-
-header{
+header {
     font-family: 'Horror Type', sans-serif;
-    font-size: 8em; 
-    letter-spacing: 0.8em; 
-color: #f56161;
-text-align: center;
-text-shadow: 10px 5px 8px rgba(207, 19, 19, 0.5)
+    font-size: 8em;
+    letter-spacing: 0.8em;
+    color: #f56161;
+    text-align: center;
+    text-shadow: 10px 5px 8px rgba(207, 19, 19, 0.5)
 }
 
-h2{
-    color:#f56161
+h2 {
+    color: #f56161
 }
-.center{
+
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 33%; 
-}
-.listCenter{
- 
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 10%;    
+    width: 33%;
 }
 
-body{
+.listCenter {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+body {
     text-align: center;
     background-color: black;
-    color:azure;
+    color: azure;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-#tomie1{
+
+#tomie1 {
     border-style: solid;
     border-color: white;
     height: 250px;
